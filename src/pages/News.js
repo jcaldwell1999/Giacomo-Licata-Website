@@ -240,27 +240,27 @@ const News = () => {
     {
       smallImage: newsImage7,
       largeImage: newsImage7Large,
-      title: 'News Title 7',
+      title: 'Giac and John Barnes',
     },
     {
       smallImage: newsImage8,
       largeImage: newsImage8Large,
-      title: 'News Title 8',
+      title: 'Giac and Ian Rush',
     },
     {
       smallImage: newsImage9,
       largeImage: newsImage9Large,
-      title: 'Adrian Stone',
+      title: 'Adrian Stone signed poster',
     },
     {
       smallImage: newsImage10,
       largeImage: newsImage10Large,
-      title: 'Frank Bruno',
+      title: 'Frank Bruno signed poster',
     },
     {
       smallImage: newsImage11,
       largeImage: newsImage11Large,
-      title: 'News Title 11',
+      title: 'Giac and Former Bristol Rovers Manager',
     },
     {
       smallImage: newsImage12,
@@ -340,7 +340,7 @@ const News = () => {
     {
       smallImage: newsImage28,
       largeImage: newsImage28Large,
-      title: 'Giacomo Licata, Lee Haskins &',
+      title: 'Giacomo Licata, Lee Haskins & Former Mayor of Bristol',
     },
   ];
 
