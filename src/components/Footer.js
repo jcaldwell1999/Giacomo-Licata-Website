@@ -81,7 +81,7 @@ const SocialIcons = styled.div`
 const CreditText = styled.p`
   color: #aaa;
   font-size: 10px;
-  text-align: center;
+  text-align: right;
   margin: 10px 0;
 `;
 
