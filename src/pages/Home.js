@@ -66,7 +66,7 @@ const Home = () => {
       <Title>GIACOMO LICATA</Title>
       <SubTitle>Est. 1986</SubTitle>
       <Address>374 FILTON AVENUE, HORFIELD, BRISTOL, BS7 0BE</Address>
-      <Address>0117 823 6663</Address>
+      <Address>0117 923 6663</Address>
     </HomeContainer>
   );
 };
